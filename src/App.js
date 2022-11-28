@@ -21,7 +21,7 @@ function App() {
             </a>{" "}
             and is
             <a
-              href="https://github.com/Helirian/vanilla-weather-app"
+              href="https://github.com/Helirian/react-weather-app.git"
               target="_blank"
               rel="noreferrer"
             >
@@ -30,7 +30,7 @@ function App() {
             </a>{" "}
             and
             <a
-              href="https://cozy-buttercream-b60c79.netlify.app/"
+              href="https://voluble-nasturtium-6c554a.netlify.app/"
               target="_blank"
               rel="noreferrer"
             >
